@@ -1,4 +1,4 @@
-##RIDHO##**
+##RIDHO##
 	# 1 - Import Library
 import pygame
 from pygame.locals import *
